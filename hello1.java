@@ -7,3 +7,5 @@ this is devops demo
 this is coding zone
 
 welcome to git hub
+
+let's have some fun fellas
