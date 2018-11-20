@@ -8,4 +8,15 @@ this is coding zone
 
 welcome to git hub
 
-let's have some fun fellas
+this is so much fun to learn branching strategy
+
+hello
+world
+bye
+
+hello
+
+this is chakradhar
+
+gudevng to everyone
+
