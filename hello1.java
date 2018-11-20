@@ -1,23 +1,20 @@
  
-hi this is chakri
-have a nice day guyz
+Hi This is chakri
 
-this is devops demo
+Have a nice day guyz
 
-this is coding zone
+This is devops demo
+
+This is coding zone
 
 welcome to git hub
 
-this is so much fun to learn branching strategy
+This is so much fun to learn branching strategy
 
-hello
-world
-bye
-
-hello
-
-this is chakradhar
+This is chakradhar
 
 gudevng to ever
 
 gudnt to everyone
+
+
